@@ -12,7 +12,7 @@ use REmix - an online Solidity IDE , to execute the program
 steps:
 1) Create a New File: click on the"+" available on the left slidebar of the page and save the file with a .sol extension.
 2) Paste the code given in  [https://github.com/encoded2203/meta_ethbeg/blob/main/READMEcode.md]
-3) Compile the code: click on the "Solidity Compiler" tab in the left-hand sidebar and ensure e the "Compiler" option is set to "0.8.18" and then click on the "Compile MyToken.sol" button.
+3) Compile the code: click on the "Solidity Compiler" tab in the left-hand sidebar and ensure e the "Compiler" option is set to "0.8.9" and then click on the "Compile MyToken.sol" button.
 4) Deploy and Contract: Click on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
 5) Interact with the Contract:Once the contract is deployed, we can call mint and burn function by using address. Then click on the "transact" button to execute the function and retrieve the updated information.
 
